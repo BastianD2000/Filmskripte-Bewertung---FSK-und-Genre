@@ -48,3 +48,22 @@ Für das Training zur Genre-Bestimmung muss dank dem
 modularen Aufbau nur „main_train.py“ ausgeführt werden und für die Bewertung von Genre 
 und FSK eines neuen Textes ist nur die Ausführung von „main_classify.py“ nötig. Beides 
 wird in der Konsole ausgegeben.
+
+Quellen
+
+LDNOOBW. "List of Dirty, Naughty, Obscene, and Otherwise Bad Words." GitHub. 
+
+Zugriff am 30. September 2024. https://github.com/LDNOOBW/List-of-Dirty-NaughtyObscene-and-Otherwise-Bad-Words?tab=readme-ov-file.
+
+Surge AI. "Profanity." GitHub. Zugriff am 30. September 2024. https://github.com/surgeai/profanity.
+
+Natural Language Toolkit. "NLTK Module Index." Zugriff am 30. September 2024. 
+https://www.nltk.org/py-modindex.html.
+
+Scikit-learn. "User Guide." Zugriff am 30. September 2024. https://scikitlearn.org/stable/user_guide.html.
+
+Freiwillige Selbstkontrolle der Filmwirtschaft (FSK). "Altersfreigaben: Prüfverfahren und 
+Kriterien." Zugriff am 30. September 2024. https://www.fsk.de/?seitid=508&tid=72.
+
+IMSDb. "The Internet Movie Script Database." Zugriff am 30. September 2024. 
+https://imsdb.com
