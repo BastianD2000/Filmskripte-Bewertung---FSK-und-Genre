@@ -1,5 +1,7 @@
 # Filmskripte-Bewertung FSK und Genre
 
+Entstanden im Rahmen eines Projektes im Bachelor Studiengang Information Science an der Hochschule Darmstadt (https://h-da.de/studium/studienangebot/studiengaenge/information-science-und-informatik/information-science-bsc)
+
 „only_fsk_rate.py“ verwendet nun die Skala, um einem neuen Drehbuch eine 
 FSK-Bewertung zu geben. Die vorbereitende Wortfrequenzanalyse funktioniert genauso wie 
 in „wortfrequenz_untersuchung.py“. Der Text wird tokenisiert, lemmatisiert, Stoppwörter 
