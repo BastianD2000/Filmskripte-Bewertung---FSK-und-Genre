@@ -1,0 +1,7 @@
+Animation
+Adventure
+Comedy
+Drama
+Family
+Romance
+Sci-Fi

@@ -1,0 +1,161 @@
+Label: Action
+  precision: 0.58
+  recall: 0.11
+  f1-score: 0.18
+  support: 66.00
+
+Label: Adventure
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 32.00
+
+Label: Animation
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 5.00
+
+Label: Biography
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 0.00
+
+Label: Comedy
+  precision: 0.73
+  recall: 0.16
+  f1-score: 0.26
+  support: 70.00
+
+Label: Crime
+  precision: 1.00
+  recall: 0.03
+  f1-score: 0.05
+  support: 36.00
+
+Label: Drama
+  precision: 0.60
+  recall: 0.96
+  f1-score: 0.74
+  support: 128.00
+
+Label: Family
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 6.00
+
+Label: Fantasy
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 16.00
+
+Label: Film-Noir
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 0.00
+
+Label: History
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 0.00
+
+Label: Horror
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 39.00
+
+Label: Horror.Mystery
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 0.00
+
+Label: Music
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 0.00
+
+Label: Musical
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 1.00
+
+Label: Mystery
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 24.00
+
+Label: Romance
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 25.00
+
+Label: Sci-Fi
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 37.00
+
+Label: Short
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 0.00
+
+Label: Sport
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 0.00
+
+Label: Thriller
+  precision: 0.67
+  recall: 0.02
+  f1-score: 0.04
+  support: 88.00
+
+Label: War
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 7.00
+
+Label: Western
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 2.00
+
+Label: micro avg
+  precision: 0.61
+  recall: 0.25
+  f1-score: 0.35
+  support: 582.00
+
+Label: macro avg
+  precision: 0.16
+  recall: 0.06
+  f1-score: 0.06
+  support: 582.00
+
+Label: weighted avg
+  precision: 0.45
+  recall: 0.25
+  f1-score: 0.22
+  support: 582.00
+
+Label: samples avg
+  precision: 0.59
+  recall: 0.33
+  f1-score: 0.39
+  support: 582.00
